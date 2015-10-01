@@ -9,6 +9,7 @@
     <title></title>
 </head>
 <body>
+    <h1>Demo app</h1>
     <form runat="server">
         <asp:TextBox ID="tbPassword" runat="server"/>
 
