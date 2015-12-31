@@ -9,6 +9,8 @@
 <body>
     <h1>Demo app</h1>
     <form runat="server">
+	    <p>enter password to check it strength</p>
+
         <asp:TextBox ID="tbPassword" runat="server"/>
 
         <ajaxToolkit:PasswordStrength TargetControlID="tbPassword" runat="server" />
