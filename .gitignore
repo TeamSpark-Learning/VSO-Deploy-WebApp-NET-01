@@ -3,3 +3,4 @@ packages/
 *.user
 [Bb]in/
 [Oo]bj/
+*.suo
